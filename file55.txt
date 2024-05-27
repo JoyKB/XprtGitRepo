@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 this is file55 added modified
+=======
+Final modifyied
+This is final
+I am modify
+
+
+
+
+
+
+>>>>>>> dev
